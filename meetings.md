@@ -36,6 +36,8 @@ Please add here any papers (with links) you would like to suggest for the readin
   * Information Seeking, Curiosity and Attention: Computational and Neural Mechanisms
 Gottlieb, J., Oudeyer, P-Y., Lopes, M., Baranes, A. (2013)
 Trends in Cognitive Science, , 17(11), pp. 585-596. (recommended by Sylvie)
+https://ieeexplore.ieee.org/document/8683069 
+Github (dataset): https://github.com/William-N-Havard/VGS-dataset-metadata
 
 ### Read
 
